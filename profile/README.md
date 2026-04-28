@@ -1,4 +1,7 @@
 # 🌐 BODAPI: The Global Data Acquisition Engine
+![Status](https://img.shields.io/badge/Status-Operational-brightgreen)
+![Uptime](https://img.shields.io/badge/Uptime-99.9%25-blue)
+![Bypass](https://img.shields.io/badge/Anti--Bot-Akamai%20|%20Cloudflare-orange)
 
 Welcome to the **Bodapi Hub**. We provide high-fidelity, enterprise-level data extraction and API fusion solutions for the world's most complex e-commerce and search ecosystems.
 
