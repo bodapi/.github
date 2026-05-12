@@ -12,7 +12,7 @@ To empower data-driven decisions by providing a single, unified gateway to globa
 
 ### 🛠️ Specialized Intelligence Hubs
 Explore our core data acquisition modules:
-* [**Mother Hub (API Fusion)**](https://github.com/bodapi/e-commerce-data-acquisition-and-scraping-hub): The central documentation for all Bodapi services.
+* [**Mother Hub (API Fusion)**](https://github.com/bodapi/e-commerce-data-acquisition-and-scraping-hub)
 * [**Amazon Global Commerce**](https://github.com/bodapi/amazon-global-commerce-hub)
 * [**Shopee API**](https://github.com/bodapi/shopee-api-global-data)
 * [**Google Data Engine**](https://github.com/bodapi/google-data-intelligence-hub)
