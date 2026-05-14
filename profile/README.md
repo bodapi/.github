@@ -17,6 +17,7 @@ Explore our core data acquisition modules:
 * [**Shopee API**](https://github.com/bodapi/shopee-api-global-data)
 * [**Google Data Engine**](https://github.com/bodapi/google-data-intelligence-hub)
 * [**Global E-commerce (CN)**](https://github.com/bodapi/global-ecommerce-data-scraping-solutions-cn)
+* [**Shein API**](https://github.com/bodapi/shein-scraper-data-solutions)
 
 ---
 
